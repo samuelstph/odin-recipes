@@ -1,14 +1,13 @@
 body {
-    background-color: rgb(252, 215, 161);
+  background-color: rgb(252, 215, 161);
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 li {
-    text-align: center;
-    list-style-type: none;
-    padding: 5px;
-    
+  text-align: center;
+  list-style-type: none;
+  padding: 5px;
 }
