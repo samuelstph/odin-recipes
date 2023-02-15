@@ -3,8 +3,9 @@ html {
 }
 
 body {
+  font-family:Arial, Helvetica, sans-serif;
   background-color: rgb(252, 215, 161);
-  border: 1px solid black ;
+  border: 2px solid black;
   width: 500px;
   margin: auto;
   margin-top: 20px;
@@ -12,10 +13,14 @@ body {
 
 h1 {
   text-align: center;
+  margin: 10px 0px;
 }
 
 li {
-  text-align: center;
   list-style-type: none;
-  padding: 5px;
+  padding: 3px 0px;
+}
+
+.border_big {
+  border: 1px solid black;
 }
