@@ -1,5 +1,13 @@
+html {
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(252, 215, 161);
+  border: 1px solid black ;
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
 }
 
 h1 {
